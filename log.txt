@@ -3,3 +3,12 @@
 📝 Summary: The "New" code is simply an exclamation mark (!).  The "Old" code is missing.  Therefore, the change is a complete replacement of the old code with a single exclamation mark.
 
 
+
+🗂 File: index.html
+📝 Summary: The old code was just an exclamation point (!), which is not valid HTML.  The new code is a complete, albeit minimal, HTML5 document.  The change added the necessary structure for an HTML page including the `<html>`, `<head>`, and `<body>` elements, along with meta information like character set and viewport settings.
+
+
+🗂 File: style.css
+📝 Summary: Please provide the "Old" and "New" code snippets you wish me to compare.  I need the code to be able to give you a summary of the changes.
+
+
