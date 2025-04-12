@@ -1,0 +1,5 @@
+
+🗂 File: index.html
+📝 Summary: The "New" code is simply an exclamation mark (!).  The "Old" code is missing.  Therefore, the change is a complete replacement of the old code with a single exclamation mark.
+
+
